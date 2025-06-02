@@ -22,7 +22,7 @@ title: BatterBag
 email: webmaster@batterbag.com
 description: >- # this means to ignore newlines until "baseurl:"
   A domain for testing and demoing ABM.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://batterbag.com" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
